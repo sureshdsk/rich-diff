@@ -1,0 +1,12 @@
+{
+  "author": "sureshdsk",
+  "package_name_override": "rich-diff",
+  "email": "dsk@sureshdsk.dev",
+  "description": "CLI based diff Viewer",
+  "url": "https://github.com/sureshdsk/rich-diff",
+  "python_version": "3.7",
+  "version": "1.0.2",
+  "scripts": [
+    "rich-diff = app:app"
+  ]
+}
