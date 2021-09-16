@@ -1,6 +1,7 @@
 # Rich Diff
 CLI based diff viewer
-[link to github repo](http://google.com)
+
+[https://github.com/sureshdsk/rich-diff](https://github.com/sureshdsk/rich-diff)
 
 ## Install
 ```sh
