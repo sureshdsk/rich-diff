@@ -21,7 +21,7 @@ $ rich-diff ndiffdata/user1.json data/user2.json
 ```
 
 ## Screenshots
-![rich-diff commands](./screenshots/rich-diff1.png?raw=true)
-![rich-diff commands](./screenshots/rich-diff2.png?raw=true)
-![rich-diff commands](./screenshots/rich-diff3.png?raw=true)
+![rich-diff commands](https://raw.githubusercontent.com/sureshdsk/rich-diff/main/screenshots/rich-diff1.png?raw=true)
+![rich-diff commands](https://raw.githubusercontent.com/sureshdsk/rich-diff/main/screenshots/rich-diff2.png?raw=true)
+![rich-diff commands](https://raw.githubusercontent.com/sureshdsk/rich-diff/main/screenshots/rich-diff3.png?raw=true)
 

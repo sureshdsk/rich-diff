@@ -5,7 +5,7 @@
   "description": "CLI based diff Viewer",
   "url": "https://github.com/sureshdsk/rich-diff",
   "python_version": "3.7",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "scripts": [
     "rich-diff = app:app"
   ]
